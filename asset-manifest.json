@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DAICON4EVER/static/css/main.f855e6bc.css",
-    "main.js": "/DAICON4EVER/static/js/main.2abae1b2.js",
+    "main.js": "/DAICON4EVER/static/js/main.bb0dfe35.js",
     "static/js/453.2d73bb84.chunk.js": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js",
     "static/media/touani_logo.svg": "/DAICON4EVER/static/media/touani_logo.909140b40bf21b201883616649eddc2b.svg",
     "index.html": "/DAICON4EVER/index.html",
     "main.f855e6bc.css.map": "/DAICON4EVER/static/css/main.f855e6bc.css.map",
-    "main.2abae1b2.js.map": "/DAICON4EVER/static/js/main.2abae1b2.js.map",
+    "main.bb0dfe35.js.map": "/DAICON4EVER/static/js/main.bb0dfe35.js.map",
     "453.2d73bb84.chunk.js.map": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2abae1b2.js"
+    "static/js/main.bb0dfe35.js"
   ]
 }
