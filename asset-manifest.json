@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DAICON4EVER/static/css/main.f855e6bc.css",
-    "main.js": "/DAICON4EVER/static/js/main.6530588f.js",
+    "main.js": "/DAICON4EVER/static/js/main.f33906f0.js",
     "static/js/453.2d73bb84.chunk.js": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js",
     "static/media/rei-ayanami-nge.gif": "/DAICON4EVER/static/media/rei-ayanami-nge.60bbd991d166332eab90.gif",
     "static/media/touani_logo.svg": "/DAICON4EVER/static/media/touani_logo.909140b40bf21b201883616649eddc2b.svg",
     "index.html": "/DAICON4EVER/index.html",
     "main.f855e6bc.css.map": "/DAICON4EVER/static/css/main.f855e6bc.css.map",
-    "main.6530588f.js.map": "/DAICON4EVER/static/js/main.6530588f.js.map",
+    "main.f33906f0.js.map": "/DAICON4EVER/static/js/main.f33906f0.js.map",
     "453.2d73bb84.chunk.js.map": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6530588f.js"
+    "static/js/main.f33906f0.js"
   ]
 }
