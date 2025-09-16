@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DAICON4EVER/static/css/main.e9b8baf7.css",
-    "main.js": "/DAICON4EVER/static/js/main.0d3db6a0.js",
+    "main.css": "/DAICON4EVER/static/css/main.ce90caa3.css",
+    "main.js": "/DAICON4EVER/static/js/main.bfce96bf.js",
     "static/js/453.2d73bb84.chunk.js": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js",
     "static/media/okinu-loading.gif": "/DAICON4EVER/static/media/okinu-loading.728e58a1c8929cee77b5.gif",
     "index.html": "/DAICON4EVER/index.html",
-    "main.e9b8baf7.css.map": "/DAICON4EVER/static/css/main.e9b8baf7.css.map",
-    "main.0d3db6a0.js.map": "/DAICON4EVER/static/js/main.0d3db6a0.js.map",
+    "main.ce90caa3.css.map": "/DAICON4EVER/static/css/main.ce90caa3.css.map",
+    "main.bfce96bf.js.map": "/DAICON4EVER/static/js/main.bfce96bf.js.map",
     "453.2d73bb84.chunk.js.map": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9b8baf7.css",
-    "static/js/main.0d3db6a0.js"
+    "static/css/main.ce90caa3.css",
+    "static/js/main.bfce96bf.js"
   ]
 }
