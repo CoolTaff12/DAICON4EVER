@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DAICON4EVER/static/css/main.2a151e45.css",
-    "main.js": "/DAICON4EVER/static/js/main.12ddff59.js",
+    "main.js": "/DAICON4EVER/static/js/main.f1cae2d4.js",
     "static/js/453.2d73bb84.chunk.js": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js",
     "static/media/okinu-loading.gif": "/DAICON4EVER/static/media/okinu-loading.728e58a1c8929cee77b5.gif",
     "index.html": "/DAICON4EVER/index.html",
     "main.2a151e45.css.map": "/DAICON4EVER/static/css/main.2a151e45.css.map",
-    "main.12ddff59.js.map": "/DAICON4EVER/static/js/main.12ddff59.js.map",
+    "main.f1cae2d4.js.map": "/DAICON4EVER/static/js/main.f1cae2d4.js.map",
     "453.2d73bb84.chunk.js.map": "/DAICON4EVER/static/js/453.2d73bb84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a151e45.css",
-    "static/js/main.12ddff59.js"
+    "static/js/main.f1cae2d4.js"
   ]
 }
